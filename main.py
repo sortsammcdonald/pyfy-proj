@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-def main(df_list):
+def main(df_list, combined_list): # Still need to specify how combined_list works
     processed_list = []
     for filepath in df_list:
         fin_df_instance = fp.FinancialDf(filepath)
