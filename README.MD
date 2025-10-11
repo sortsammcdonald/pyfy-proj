@@ -1,7 +1,12 @@
 # PyFy project
 
-## 2025.10.04
+## 2025.10.11
 
+Was able to reimplement combinig the files in main. However I'm still not happy about hardcoding variables there, it should be possible to specify the relevant rows at runtime.
+
+Similarly, I think it would be better to define the plotting execution in a seperate file.
+
+## 2025.10.04
 
 ## Next stpes
 
