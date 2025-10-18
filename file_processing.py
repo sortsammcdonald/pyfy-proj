@@ -1,6 +1,7 @@
 import pandas as pd
 
 class FinancialDf:
+    """Load a single financial statement into a pandas DataFrame."""
     def __init__(self, filepath):
         self.filepath = filepath
         self.df = self.read_file()
@@ -19,6 +20,7 @@ class FinancialDf:
         return self.df
     
 class CombinedDf:
+    """Handle combinations of multiple FinancialDf outputs."""
     def __init__(self, df_list):
         self.df_list = df_list
 
@@ -34,6 +36,7 @@ class CombinedDf:
         if not self.df_list:
             return None
         combined_df = self.combine_df()
+        # Sum rows sharing the same index (typically a date)
         return combined_df.groupby(combined_df.index).sum()
     
 #def exclude_val(df, amount, column):
