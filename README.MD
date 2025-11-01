@@ -1,5 +1,31 @@
 # PyFy project
 
+## 2025.11.01
+
+Let's try on focus on this project for some time today and decide if there is anything further I can do with it.
+
+So I can filter data, such as removing the 'income' values from the datafrome, in a simple way by using the structure:
+
+`df["{COLUMN}"] == "{VALUE}"`
+
+Similarly I think using the `groupby` function could help me group together rows per month and sum the spend.
+
+## 2025.10.30
+
+I think it is better to focus on the more recent fake data since this has the most interesting material to play with.
+
+First thing to do should be to filter and adjust the data so that it works for the analysis.df
+
+Again it feels like I'm really getting into the weeds here. Maybe that's not a bad thing, learning Python to a higher level....
+
+## 2025.10.25
+
+So I have sample data in a format that can be parsed by Pandas. Might be worth reviewing Wes McK book again so that I can work on grouping together the data. Some examples might include grouping by:
+
+- Date
+- Category
+- Type
+
 ## 2025.10.18
 
 Not sure how much further I can go with this project as it is. Maybe using the new data set will help. For this though I will have to think of some other ways to structure the data. Some ideas include:
