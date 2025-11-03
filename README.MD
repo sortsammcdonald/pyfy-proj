@@ -1,5 +1,11 @@
 # PyFy project
 
+## 2025.11.03
+
+I wonder if I could use a lambda function to isolate certain elements within the column?
+
+In the end using a lambda function didn't make much sense, `loc` allows for this sort of filtering on its own.
+
 ## 2025.11.01
 
 Let's try on focus on this project for some time today and decide if there is anything further I can do with it.
