@@ -1,5 +1,13 @@
 # PyFy project
 
+## 2025.11.12
+
+I think for the next steps this project should go more in the direction of building an application. I will use the tkinter module to build a simple interface.
+
+The interface will ask the user to upload a CSV file and return some spreadsheets and visualisations.
+
+- [tkinter docs](https://tkdocs.com/tutorial/firstexample.html)
+
 ## 2025.11.03
 
 I wonder if I could use a lambda function to isolate certain elements within the column?
