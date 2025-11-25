@@ -1,5 +1,15 @@
 # PyFy project
 
+## 2025.11.25
+
+I was able to restore the project to my new Pop os env. I am however missing the sample data so will need to create some new test data.
+
+## Next steps
+- Finalise exactly what visualisations I want to create
+- Create new sample data
+- Make sure code is generating all the images I want
+- Customise tkinter to act as app.
+
 ## 2025.11.12
 
 I think for the next steps this project should go more in the direction of building an application. I will use the tkinter module to build a simple interface.
