@@ -1,11 +1,15 @@
 # PyFy project
 
+## 2025.11.26
+
+I will follow grok's recommendation for visualisations. I have some new sample data, I just need to sit down and do this
+
 ## 2025.11.25
 
 I was able to restore the project to my new Pop os env. I am however missing the sample data so will need to create some new test data.
 
 ## Next steps
-- Finalise exactly what visualisations I want to create
+- Finalise exactly what visualisations I want to create 
 - Create new sample data
 - Make sure code is generating all the images I want
 - Customise tkinter to act as app.

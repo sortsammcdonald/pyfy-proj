@@ -1,0 +1,34 @@
+date,description,category,subcategory,amount,type,account,payment_method
+2025-01-05,Salary January,Income,Salary,7500.00,credit,Checking Account,Direct Deposit
+2025-01-06,Rent January,Housing,Rent,-2200.00,debit,Checking Account,ACH
+2025-01-07,Supermarket,Groceries,Food,-187.43,debit,Checking Account,Debit Card
+2025-01-08,Electric Bill,Utilities,Electricity,-92.15,debit,Checking Account,Auto-Pay
+2025-01-10,Netflix,Entertainment,Streaming,-15.99,debit,Credit Card,Auto-Pay
+2025-01-12,Restaurant Dinner,Dining Out,Food,-78.50,debit,Credit Card,Contactless
+2025-01-15,Freelance Project,Income,Side Hustle,1200.00,credit,Checking Account,Transfer
+2025-01-20,Gas Station,Transportation,Fuel,-55.30,debit,Checking Account,Debit Card
+2025-01-25,Amazon Purchase,Shopping,Online,-129.99,debit,Credit Card,Online
+2025-01-28,Dividend Payment,Income,Investments,180.00,credit,Investment Account,Dividend
+2025-02-03,Salary February,Income,Salary,7500.00,credit,Checking Account,Direct Deposit
+2025-02-06,Rent February,Housing,Rent,-2200.00,debit,Checking Account,ACH
+2025-02-08,Internet Bill,Utilities,Internet,-79.99,debit,Checking Account,Auto-Pay
+2025-02-14,Valentine's Dinner,Dining Out,Food,-145.00,debit,Credit Card,Contactless
+2025-02-20,Gym Membership,Health,Fitness,-49.99,debit,Checking Account,Auto-Pay
+2025-02-25,Stock Sale Profit,Income,Investments,850.00,credit,Investment Account,Transfer
+2025-03-05,Salary March,Income,Salary,7500.00,credit,Checking Account,Direct Deposit
+2025-03-06,Rent March,Housing,Rent,-2200.00,debit,Checking Account,ACH
+2025-03-10,New Laptop,Shopping,Electronics,-1299.99,debit,Credit Card,Online
+2025-03-15,Concert Tickets,Entertainment,Events,-180.00,debit,Credit Card,Online
+2025-03-20,Car Insurance,Transportation,Insurance,-135.00,debit,Checking Account,Auto-Pay
+2025-04-01,Tax Refund,Income,Other,450.00,credit,Checking Account,Direct Deposit
+2025-04-05,Salary April,Income,Salary,7500.00,credit,Checking Account,Direct Deposit
+2025-04-15,Spring Vacation,Travel,Flights & Hotels,-1850.00,debit,Credit Card,Online
+2025-05-01,Bonus,Income,Bonus,3000.00,credit,Checking Account,Direct Deposit
+2025-05-10,Home Insurance,Insurance,Home,-420.00,debit,Checking Account,ACH
+2025-06-20,New Phone,Shopping,Electronics,-899.00,debit,Credit Card,Online
+2025-07-15,Summer Road Trip,Travel,Gas & Hotels,-680.00,debit,Checking Account,Debit Card
+2025-08-01,Student Loan Payment,Education,Loan Repayment,-325.00,debit,Checking Account,Auto-Pay
+2025-09-10,Medical Checkup,Health,Doctor,-150.00,debit,Credit Card,In-Person
+2025-10-31,Halloween Party,Entertainment,Events,-220.00,debit,Credit Card,In-Person
+2025-12-20,Christmas Gifts,Shopping,Gifts,-650.00,debit,Credit Card,Online
+2025-12-24,Family Dinner,Dining Out,Food,-195.00,debit,Credit Card,Contactless
